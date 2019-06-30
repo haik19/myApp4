@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tag_cloud_item_1_end">#F01CD1</color>
+    <color name="tag_cloud_item_1_start">#00e7ff</color>
+    <color name="yellow">#CDDC39</color>
+    <color name="green">#071D1B</color>
+</resources>
